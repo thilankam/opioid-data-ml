@@ -5,8 +5,8 @@ This project is the final class project of Thilanka Munasinghe, that examines va
 
 The code is available in the form of a [Jupyter](http://jupyter.org/) notebook. You may view the notebook either by:
 
-* using [jupyter.org's notebook viewer](http://nbviewer.jupyter.org/github/thilankam/opioid-data-ml/blob/master/index.ipynb)
-    * note: [github.com's notebook viewer](https://github.com/thilankam/opioid-data-ml/blob/master/index.ipynb) also works but it is slower and the math formulas are not displayed correctly,
+* using [jupyter.org's notebook viewer](http://nbviewer.jupyter.org/github/thilankam/opioid-data-ml/blob/master/final_project.ipynb)
+    * note: [github.com's notebook viewer](https://github.com/thilankam/opioid-data-ml/blob/master/final_project.ipynb) also works but it is slower and the math formulas are not displayed correctly,
 * or by cloning this repository and running Jupyter locally. 
 
 # Installation
