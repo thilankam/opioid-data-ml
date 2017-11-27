@@ -1,7 +1,7 @@
-Introduction to Machine Learning (CS-493D) Final Project
+Opioid Data Project
 ==========================
 
-This project is the final class project of Thilanka Munasinghe for the Introuction to Machine Learning (CS-493D), that examines various machine learning techniques on opioid datasets.
+This project is the final class project of Thilanka Munasinghe, that examines various machine learning techniques on opioid datasets using Python.
 
 The code is available in the form of a [Jupyter](http://jupyter.org/) notebook. You may view the notebook either by:
 
